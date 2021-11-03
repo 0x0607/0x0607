@@ -20,10 +20,10 @@
 ``［★★★☆☆］``   
 6. **[C#](https://en.wikipedia.org/wiki/C_Sharp_\(programming_language\))**  
 ``［★☆☆☆☆］``  
-7. **[C++](https://en.wikipedia.org/wiki/C++)**  
-``［★★☆☆☆］``  
-8. **[Masm(Assembly language)](https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler)**  
+7. **[Masm(Assembly language)](https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler)**  
 ``［★☆☆☆☆］``  
+8. **[C++](https://en.wikipedia.org/wiki/C++)**  
+``［★★☆☆☆］``  
 9. **[Python](https://en.wikipedia.org/wiki/Python_\(programming_language\))**  
 ``［★★☆☆☆］``  
 
