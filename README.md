@@ -1,7 +1,8 @@
 # +==╡The_3_of_Swords_Reversed>　逆位寶劍三
 🌏 I'm From [Taiwan](https://en.wikipedia.org/wiki/Taiwan)~  
 🎯 [CSIE(Computer Science and Information Engineering)](https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%B3%BB) students  
-📠 Discord：[Maizuru5272#0678](http://discordapp.com/invite/BtTUkY8)
+📠 Discord：[Maizuru5272#0678](http://discordapp.com/invite/BtTUkY8)  
+![rotom](https://user-images.githubusercontent.com/74230665/152712942-dafa68e0-4d55-4a21-8dec-c71bc4571693.gif)  
 ### \[Language]  
 // _Sort by learning order_  
 // _☆ is the degree of preference_
