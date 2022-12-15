@@ -1,4 +1,4 @@
-# +==╡The_3_of_Swords_Reversed>　逆位寶劍三
+# +==╡The3ofSwordsReversed>　
 ⚔ _T3oSr = [The_3_of_Swords_Reversed](https://en.wikipedia.org/wiki/Three_of_Swords)._  
 🌏 I'm From [Taiwan](https://en.wikipedia.org/wiki/Taiwan)~  
 🎯 [CSIE(Computer Science and Information Engineering)](https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%B3%BB) students  
