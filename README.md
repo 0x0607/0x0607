@@ -9,6 +9,3 @@
 ![Maizuru5272's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x0607&show_icons=false&theme=radical)  
 ![Maizuru5272's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0607&card_width=445&layout=compact&theme=radical&locale=en&langs_count=4)
 ### Maizuru ¯\\\_(ツ)\_/¯  
-> **I am a bug maker**  
-> 我不會寫啥有價值的Code，專門出產Bug    
-> 如果你要找有幫助的碼，那麼你來錯地方了
