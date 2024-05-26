@@ -44,7 +44,7 @@ I'm Maizuru ¯\\\_(ツ)\_/¯
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe%20PhotoShop&color=1E1E1E&logo=adobephotoshop&logoColor=31A8FF&label=)
 ![Indesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe%20Indesign&color=1E1E1E&logo=adobeindesign&logoColor=FF3366&label=)
 
-### 　_Ｆortune Ｔelling_
+### 　_Ｆortune Telling_
 　
 ![TAROT](https://img.shields.io/static/v1?style=for-the-badge&message=🔮%20TAROT&color=262626&logo=&logoColor=CC5AF7&label=)
 
