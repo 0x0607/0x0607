@@ -43,7 +43,8 @@ I'm Maizuru ¯\\\_(ツ)\_/¯
 ![TAROT](https://img.shields.io/static/v1?style=for-the-badge&message=🔮%20TAROT&color=262626&logo=&logoColor=CC5AF7&label=)
 
 ## ☆ Certificate
-|[Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)|[Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)|
+<!--|[Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)|[Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)|-->
+|Red Hat Certified Engineer|Red Hat Certified System Administrator|
 |--|--|
 |![red-hat-certified-engineer-rhce](https://user-images.githubusercontent.com/74230665/217510395-c16bc422-3df9-417a-b287-a6a1cbb2ca5e.png)|![red-hat-certified-system-administrator-rhcsa](https://user-images.githubusercontent.com/74230665/217510417-1f411f04-6743-4ef3-a4e2-cf7f78a3c49e.png)|  
 
