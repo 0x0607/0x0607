@@ -31,8 +31,11 @@ I'm Maizuru ¯\\\_(ツ)\_/¯
 ### 　_Operating Systems_
 　
 ![Redhat](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=redhat&logoColor=DF2B34&message=Redhat%208&label=)
-![Windows Server](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=Windows&logoColor=0078D6&message=Windows%20Server%202008-2022&label=)
-![CentOS](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=CentOS&logoColor=FFFFFF&message=CentOS%208&label=)
+![Windows Server](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=Windows&logoColor=0078D6&message=Windows%20Server%202008-2022&label=)  
+　
+![Almalinux](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=Almalinux&logoColor=FFFFFF&message=Almalinux%209&label=)
+![Rockylinux](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=Rockylinux&logoColor=10B981&message=Rockylinux%208&label=)
+![CentOS](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=CentOS&logoColor=FFFFFF&message=CentOS%207&label=)
 ![Fedora](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=Fedora&logoColor=51A2DA&message=Fedora%2024&label=)
 
 ### 　_Design Tools_
