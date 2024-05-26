@@ -43,8 +43,10 @@ I'm Maizuru ¯\\\_(ツ)\_/¯
 ![TAROT](https://img.shields.io/static/v1?style=for-the-badge&message=🔮%20TAROT&color=262626&logo=&logoColor=CC5AF7&label=)
 
 ## ☆ Certificate
-![red-hat-certified-engineer-rhce](https://user-images.githubusercontent.com/74230665/217510395-c16bc422-3df9-417a-b287-a6a1cbb2ca5e.png) 
-![red-hat-certified-system-administrator-rhcsa](https://user-images.githubusercontent.com/74230665/217510417-1f411f04-6743-4ef3-a4e2-cf7f78a3c49e.png)  
+|[Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)|[Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)|
+|--|--|
+|![red-hat-certified-engineer-rhce](https://user-images.githubusercontent.com/74230665/217510395-c16bc422-3df9-417a-b287-a6a1cbb2ca5e.png)|![red-hat-certified-system-administrator-rhcsa](https://user-images.githubusercontent.com/74230665/217510417-1f411f04-6743-4ef3-a4e2-cf7f78a3c49e.png)|  
+
 
 ![Maizuru5272's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x0607&show_icons=false&theme=radical)  
 ![Maizuru5272's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0607&card_width=445&layout=compact&theme=radical&locale=en&langs_count=4)  
