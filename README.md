@@ -36,12 +36,10 @@ I'm Maizuru ¯\\\_(ツ)\_/¯
 ![Fedora](https://img.shields.io/static/v1?style=for-the-badge&color=1E1E1E&logo=Fedora&logoColor=51A2DA&message=Fedora%2024&label=)
 
 ### 　_Design Tools_
-　
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe%20PhotoShop&color=1E1E1E&logo=adobephotoshop&logoColor=31A8FF&label=)
 ![Indesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe%20Indesign&color=1E1E1E&logo=adobeindesign&logoColor=FF3366&label=)
 
 ### 　_Fortune Telling_
-　
 ![TAROT](https://img.shields.io/static/v1?style=for-the-badge&message=🔮%20TAROT&color=262626&logo=&logoColor=CC5AF7&label=)
 
 ## ☆ Certificate
