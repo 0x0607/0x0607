@@ -1,8 +1,9 @@
-# +==╡The3ofSwordsReversed>　
+# +==╡introduction>　
+<!--# +==╡The3ofSwordsReversed>　-->
 
-⚔ _T3oSr = [The_3_of_Swords_Reversed](https://en.wikipedia.org/wiki/Three_of_Swords)_.  
+<!--⚔ _T3oSr = [The_3_of_Swords_Reversed](https://en.wikipedia.org/wiki/Three_of_Swords)_.  -->
 🌏 I'm From [Taiwan](https://en.wikipedia.org/wiki/Taiwan)~  
-🎯 [CSIE(Computer Science and Information Engineering)](https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%B3%BB) graduate  
+🎓 [CSIE(Computer Science and Information Engineering)](https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%B3%BB) graduate  
 📠 Discord：[Maizuru5272#0678](http://discordapp.com/invite/)   
 ![rotom](https://user-images.githubusercontent.com/74230665/152712942-dafa68e0-4d55-4a21-8dec-c71bc4571693.gif)  
    
